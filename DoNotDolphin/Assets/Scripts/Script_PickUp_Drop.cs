@@ -4,11 +4,17 @@ using UnityEngine;
 
 public class Script_PickUp_Drop : MonoBehaviour
 {
+    
     public Transform onHand;
+    Rigidbody rb;
+    private void Start()
+    {
+        rb = GetComponent<Rigidbody>();
+    }
 
     void OnMouseDown()
     {
-        //GetComponent<RigidBody>().useGravity = false;
+        rb.useGravity = false;
         this.transform.position = onHand.transform.position;
         this.transform.parent = GameObject.Find("FirstPersonCharacter").transform;
     }
@@ -16,6 +22,6 @@ public class Script_PickUp_Drop : MonoBehaviour
     void OnMouseUp()
     {
         this.transform.parent = null;
-       // GetComponent<RigidBody>().useGravity = true;
+       rb.useGravity = true;
     }
 }
