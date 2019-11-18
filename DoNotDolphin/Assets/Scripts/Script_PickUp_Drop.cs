@@ -8,7 +8,7 @@ public class Script_PickUp_Drop : MonoBehaviour
 
     void OnMouseDown()
     {
-        //GetComponent<RigidBody>().useGravity = false;
+        GetComponent<Rigidbody>().useGravity = false;
         this.transform.position = onHand.transform.position;
         this.transform.parent = GameObject.Find("FirstPersonCharacter").transform;
     }
@@ -16,6 +16,6 @@ public class Script_PickUp_Drop : MonoBehaviour
     void OnMouseUp()
     {
         this.transform.parent = null;
-       // GetComponent<RigidBody>().useGravity = true;
+       GetComponent<Rigidbody>().useGravity = true;
     }
 }
