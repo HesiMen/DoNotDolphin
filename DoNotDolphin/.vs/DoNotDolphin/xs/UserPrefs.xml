@@ -1,10 +1,17 @@
 ﻿<Properties StartupConfiguration="{E945B0E4-8A1F-5B00-E00D-074DBF4DFD83}|">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Auto_moving_airplane.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Auto_moving_airplane.cs" Line="21" Column="10" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DoNotDolphin" expanded="True">
-            <Node name="Assets" expanded="True" selected="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Auto_moving_airplane.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
