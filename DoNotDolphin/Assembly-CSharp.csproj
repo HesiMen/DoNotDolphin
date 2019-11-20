@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Script_inRange.cs" />
     <Compile Include="Assets\Scripts\Script_PickUp_Drop.cs" />
     <Compile Include="Assets\Scripts\Script_SoundTrigger.cs" />
+    <Compile Include="Assets\Scripts\Script_Teleport.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Scripts\SimpleCharacter.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
