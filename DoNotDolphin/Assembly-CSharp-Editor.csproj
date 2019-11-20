@@ -78,6 +78,9 @@
     <Reference Include="Unity.RenderPipelines.Core.Editor">
       <HintPath>C:/Users/Hesi/Documents/GitHub/DoNotDolphin/DoNotDolphin/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>C:/Users/Hesi/Documents/GitHub/DoNotDolphin/DoNotDolphin/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
       <HintPath>C:/Users/Hesi/Documents/GitHub/DoNotDolphin/DoNotDolphin/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
@@ -117,6 +120,9 @@
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>C:/Users/Hesi/Documents/GitHub/DoNotDolphin/DoNotDolphin/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>C:/Users/Hesi/Documents/GitHub/DoNotDolphin/DoNotDolphin/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
       <HintPath>C:/Users/Hesi/Documents/GitHub/DoNotDolphin/DoNotDolphin/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
@@ -131,12 +137,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/Hesi/Documents/GitHub/DoNotDolphin/DoNotDolphin/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>C:/Users/Hesi/Documents/GitHub/DoNotDolphin/DoNotDolphin/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>C:/Users/Hesi/Documents/GitHub/DoNotDolphin/DoNotDolphin/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
