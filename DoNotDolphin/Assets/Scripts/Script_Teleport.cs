@@ -21,7 +21,8 @@ public class Script_Teleport : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag =="Player"){
-            playerTeleport.position = otherSide.position;
+            playerTeleport.SetPositionAndRotation(otherSide.position, playerTeleport.transform.rotation);
         }
     }
+   
 }
