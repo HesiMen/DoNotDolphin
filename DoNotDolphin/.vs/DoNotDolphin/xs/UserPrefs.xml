@@ -1,12 +1,26 @@
 ﻿<Properties StartupConfiguration="{E945B0E4-8A1F-5B00-E00D-074DBF4DFD83}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Auto_moving_airplane.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Teleport.cs">
     <Files>
       <File FileName="Assets/Scripts/Auto_moving_airplane.cs" Line="17" Column="72" />
+      <File FileName="Assets/Teleport.cs" Line="13" Column="10" />
+      <File FileName="Assets/Scripts/Script_PickUp_Drop.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DoNotDolphin" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="Teleport.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="01d93577-6cfd-42c0-ae50-d9c0465ad2fa" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
